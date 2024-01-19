@@ -1,0 +1,12 @@
+<View style = {styles.wylacz}>
+        <Image
+          source = {require('./assets/wylacz.png')}
+          style = {styles.wylaczText}
+        />
+      </View>
+      <View style = {styles.kontakt}>
+        <Image
+          source = {require('./assets/kontakt.png')}
+          style = {styles.kontaktText}
+        />
+      </View>

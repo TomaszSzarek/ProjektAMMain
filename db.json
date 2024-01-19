@@ -1,0 +1,207 @@
+{
+  "user": [
+    {
+      "id": "1",
+      "firstName": "Tomasz",
+      "lastName": "Szarek",
+      "phoneNumber": "501333222",
+      "email": "mail@gmail.com",
+      "password": "A",
+      "verificationCode": "1",
+      "accountType": "Osobiste",
+      "country": "Polska",
+      "street": "ulica",
+      "postalCode": "32-123",
+      "city": "Kielce",
+      "branch": "Kielce",
+      "dostepneSrodki": 1247,
+      "numerRachunku": 12345,
+      "PIN": "23",
+      "limitPrzelewow": "333",
+      "card": {
+        "numerKarty": 107679959935,
+        "PIN": "5558",
+        "terminWaznosci": "02.01.2037",
+        "statusPlatnosciZblizeniowych": false,
+        "statusKarty": false,
+        "limitKarty": "100"
+      },
+      "platnosci": [
+        {
+          "kwota": 100,
+          "konto": "12345",
+          "nazwa": "Zabka",
+          "date": "15.01.2024"
+        },
+        {
+          "kwota": 2,
+          "konto": "123",
+          "nazwa": "Tom",
+          "tytul": "Ty yt",
+          "date": "19.01.2024"
+        },
+        {
+          "kwota": 12,
+          "konto": 123,
+          "nazwa": "Tomssz",
+          "tytul": "Tytyl",
+          "date": "19.01.2024"
+        },
+        {
+          "kwota": 2,
+          "konto": "123",
+          "nazwa": "Dd",
+          "tytul": "Gg",
+          "date": "19.01.2024"
+        }
+      ],
+      "pozyczki": [
+        {
+          "typ": "",
+          "kwota": "",
+          "miesiac": "",
+          "rok": "",
+          "liczbaRat": ""
+        },
+        {
+          "typ": "Aa",
+          "kwota": "100",
+          "miesiac": "5",
+          "rok": "2024",
+          "liczbaRat": "5"
+        }
+      ]
+    },
+    {
+      "id": "fa99",
+      "firstName": "",
+      "lastName": "",
+      "phoneNumber": "345",
+      "email": "",
+      "password": "B",
+      "PIN": "",
+      "verificationCode": "2",
+      "accountType": "",
+      "country": "",
+      "street": "",
+      "postalCode": "",
+      "city": "",
+      "branch": "",
+      "dostepneSrodki": 346,
+      "limitPrzelewow": 1000,
+      "numerRachunku": 123,
+      "card": {
+        "numerKarty": 270202606504,
+        "status": "Aktywna",
+        "zablokujCzasowo": 0,
+        "PIN": 5062,
+        "zastrzezKarte": 0,
+        "oplataZaBierzacyOkres": 0,
+        "terminWaznosci": "02.01.2037",
+        "sbezpieczenieKarty": 0,
+        "platnosciZblizeniowe": "włączone",
+        "statusKarty": false,
+        "limitKarty": 1000
+      }
+    },
+    {
+      "id": "b919",
+      "firstName": "",
+      "lastName": "",
+      "phoneNumber": "",
+      "email": "",
+      "password": "",
+      "PIN": "",
+      "verificationCode": "205000919960",
+      "accountType": "",
+      "country": "",
+      "street": "",
+      "postalCode": "",
+      "city": "",
+      "branch": "",
+      "dostepneSrodki": 0,
+      "limitPrzelewow": 1000,
+      "cards": [
+        {
+          "numerKarty": 717275718857,
+          "status": "Aktywna",
+          "zablokujCzasowo": 0,
+          "PIN": 6217,
+          "zastrzezKarte": 0,
+          "oplataZaBierzacyOkres": 0,
+          "terminWaznosci": "02.01.2037",
+          "sbezpieczenieKarty": 0,
+          "platnosciZblizeniowe": "włączone",
+          "statusKarty": false,
+          "limitKarty": 1000
+        }
+      ]
+    },
+    {
+      "id": "0eb3",
+      "firstName": "Piotr",
+      "lastName": "Nowak",
+      "phoneNumber": "888111000",
+      "email": "Sdffd",
+      "password": "C",
+      "PIN": "2137",
+      "verificationCode": "577132396598",
+      "accountType": "",
+      "country": "Polska",
+      "street": "Xfgf",
+      "postalCode": "Dfff",
+      "city": "Dfgds",
+      "branch": "",
+      "dostepneSrodki": 0,
+      "limitPrzelewow": 1000,
+      "cards": [
+        {
+          "numerKarty": 333377886158,
+          "status": "Aktywna",
+          "zablokujCzasowo": 0,
+          "PIN": 5212,
+          "zastrzezKarte": 0,
+          "oplataZaBierzacyOkres": 0,
+          "terminWaznosci": "02.01.2037",
+          "sbezpieczenieKarty": 0,
+          "platnosciZblizeniowe": "włączone",
+          "statusKarty": false,
+          "limitKarty": 1000
+        }
+      ]
+    },
+    {
+      "id": "9703",
+      "firstName": "",
+      "lastName": "",
+      "phoneNumber": "",
+      "email": "",
+      "password": "",
+      "PIN": "",
+      "verificationCode": "770554187485",
+      "accountType": "",
+      "country": "",
+      "street": "",
+      "postalCode": "",
+      "city": "",
+      "branch": "",
+      "dostepneSrodki": 0,
+      "limitPrzelewow": 1000,
+      "cards": [
+        {
+          "numerKarty": 706347491965,
+          "status": "Aktywna",
+          "zablokujCzasowo": 0,
+          "PIN": 4766,
+          "zastrzezKarte": 0,
+          "oplataZaBierzacyOkres": 0,
+          "terminWaznosci": "02.01.2037",
+          "sbezpieczenieKarty": 0,
+          "platnosciZblizeniowe": "włączone",
+          "statusKarty": false,
+          "limitKarty": 1000
+        }
+      ]
+    }
+  ]
+}
